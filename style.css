@@ -37,6 +37,8 @@ li:hover
 .All-item
 {
     background-image: url(image/div.png);
+    
+    
 }
 .st{
     color: rgb(242, 253, 27);
@@ -157,6 +159,3 @@ footer{
     align-items: center;
     
 }
-
-
-
