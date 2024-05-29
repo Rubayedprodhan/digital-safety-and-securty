@@ -1,0 +1,162 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+nav{
+    
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+   
+    padding: 10px;
+}
+li{
+    list-style: none;
+    font-size: 20px;
+    color: rgb(241, 237, 14);
+}
+.menu-container{
+    display: flex;
+    gap: 100px;
+}
+li:hover
+{
+    color: rgb(249, 245, 9);
+    cursor: pointer;
+}
+
+.banner-container
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+
+}
+.All-item
+{
+    background-image: url(div.png);
+}
+.st{
+    color: rgb(242, 253, 27);
+
+}
+.title{
+    color:white;
+    font-style: italic;
+}
+.button{
+    padding:10px 20px;
+    border: none;
+    background-color: rgb(231, 246, 17);
+    cursor: pointer;
+    align-items: center;
+}
+.alllogo{
+ 
+   
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+   
+
+}
+
+.ser{
+    text-align: center;
+    font-size: 20px;
+}
+.Service-card{
+
+    text-align: center;
+    width: 356px;
+    height:270px;
+    box-shadow: 4px 4px 8px gray;
+    border-radius: 10px;
+    
+    margin-top: 50px;
+
+}
+.Service{
+    display: flex;
+    justify-content: space-around;
+}
+.container{
+    margin-top: 150px;
+    display: flex;
+    justify-content: space-around;
+}
+.Hire{
+    background-color: aqua;
+    padding: 5px 20px;
+    border: none;
+    text-align: center;
+   
+}
+.titlet{
+    font-size: 40px;
+}
+.heading{
+    color: rgb(244, 79, 79);
+    font-size: 40px
+
+}
+.paragraph{
+    font-size: 20px;
+}
+.sectinon-around
+{
+    display: flex;
+    
+}
+.box-container{
+
+    width: 450px;
+    height: 200px;
+}
+.Security-Manager{
+    display: flex;
+    justify-content:space-around ;
+}
+footer{
+   
+    background-color: rgb(67, 64, 64);
+    
+}
+.footer-container{
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: px;
+    margin-bottom: auto;
+    display: flex;
+    justify-content: space-around;
+    height: 50vh;
+    width: 75%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    gap: 55px;
+    font-size: 16px;
+    align-items: center;
+
+}
+.Security-Manager{
+    width: 25%;
+  
+}
+.sec{
+    color: rgb(249, 216, 49);
+}
+.get-job{
+    color: rgb(255, 237, 37);
+}
+.bu{
+    padding:10px 20px;
+    border: none;
+    cursor: pointer;
+    align-items: center;
+    
+}
+
+
+
